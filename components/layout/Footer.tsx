@@ -31,7 +31,7 @@ function Footer() {
           href="/"
           className="text-indigo-300 hover:text-customColor-primary font-bold"
         >
-          Zeeshan Noor
+         Jhon Elia
         </Link>
       </p>
       <p className="flex font-extralight gap-1 justify-center items-center">
